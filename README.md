@@ -85,7 +85,7 @@ terraform apply
 ##Architecture diagram
 <img width="1536" height="1024" alt="enterprise-aws-infrastructure" src="https://github.com/user-attachments/assets/52fb61cb-200a-49ea-a83d-a1ada7528fbe" />
 
-##screenshots
+
 
 
 
