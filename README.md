@@ -1,4 +1,4 @@
-\# 🚀 Enterprise AWS ECS CI/CD Infrastructure
+# Enterprise AWS ECS CI/CD Infrastructure
 
 
 
@@ -6,11 +6,11 @@ This project builds a production-ready cloud infrastructure using \*\*Terraform\
 
 
 
-\---
 
 
 
-\## 🏗 Architecture
+
+## Architecture
 
 
 
@@ -32,7 +32,7 @@ This project builds a production-ready cloud infrastructure using \*\*Terraform\
 
 
 
-\## 🔧 Tech Stack
+## Tech Stack
 
 
 
@@ -52,7 +52,7 @@ This project builds a production-ready cloud infrastructure using \*\*Terraform\
 
 
 
-\## 🚀 CI/CD Flow
+## CI/CD Flow
 
 
 
@@ -72,7 +72,7 @@ This project builds a production-ready cloud infrastructure using \*\*Terraform\
 
 
 
-\## 📦 How to Deploy
+## How to Deploy
 
 
 
