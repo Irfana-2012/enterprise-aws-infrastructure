@@ -90,7 +90,8 @@ terraform apply
 
 
 <img width="1364" height="566" alt="ecs-active cluster" src="https://github.com/user-attachments/assets/76feaa1e-d057-4bf4-b825-d5062382eda3" />
-<img width="1366" height="768" alt="cicd" src="https://github.com/user-attachments/assets/63aaedf5-6c09-4e72-8ddd-7454533d4225" />
+<img width="1366" height="768" alt="git-push" src="https://github.com/user-attachments/assets/e78f0a8a-9683-440c-bb69-31d290039a79" />
+<img width="1366" height="657" alt="cicd-github" src="https://github.com/user-attachments/assets/a38a94e6-afc0-4ef8-83d2-fd05b1205e22" />
 <img width="1360" height="585" alt="awload-balancer" src="https://github.com/user-attachments/assets/df02c3b8-2b22-42d6-a54a-2732e792f02f" />
 <img width="1366" height="593" alt="autoscaling" src="https://github.com/user-attachments/assets/c65c0bcb-7d8e-4766-95d9-e0be1eb57830" />
 <img width="1366" height="679" alt="container app running" src="https://github.com/user-attachments/assets/54a565a0-c481-44fb-8fcb-f93111a554ef" />
