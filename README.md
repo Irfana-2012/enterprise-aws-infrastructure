@@ -2,7 +2,7 @@
 
 
 
-This project builds a production-ready cloud infrastructure using \*\*Terraform\*\*, \*\*AWS ECS Fargate\*\*, \*\*ALB\*\*, \*\*ECR\*\*, and \*\*GitHub Actions CI/CD pipeline\*\*.
+This project builds a production-ready cloud infrastructure using Terraform, AWS ECS Fargate, ALB, ECR, and GitHub Actions CI/CD pipeline
 
 
 
